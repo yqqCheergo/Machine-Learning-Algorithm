@@ -12,7 +12,7 @@ KNN分类：https://zhuanlan.zhihu.com/p/362596454
 
 K-Means聚类：https://zhuanlan.zhihu.com/p/363003943
 
-支持向量机：https://zhuanlan.zhihu.com/p/537715035
+SVM支持向量机：https://zhuanlan.zhihu.com/p/537715035
 
 
 
